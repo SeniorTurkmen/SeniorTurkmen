@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A crazy Front End Dev.</h3>
 
-![Profile views](https://gpvc.arturio.dev/seniorturkmen) 
+![Profile views](https://gpvc.arturio.dev/seniorturkmen)[![Github](https://img.shields.io/github/followers/seniorturkmen?label=Follow&style=flat)](https://github.com/seniorturkmen)![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/807?logoColor=white%26project=%26recentMS=0%26showProject=true)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniorturkmen" alt="seniorturkmen" /></a> </p>
 
@@ -20,30 +21,40 @@
 - 📫 How to reach me **iletisim@mustafatrkmn.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Multi-Platform Flutter Firestore (Türkçe/Turkish)](https://medium.com/flutter-t%C3%BCrkiye/multi-platform-flutter-firestore-t%C3%BCrk%C3%A7e-turkish-7dbf0443839?source=rss-d805a693a4ac------2)
-- [Flutter ile Güzel Kullanıcı Arayüzü Oluşturmak](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-g%C3%BCzel-kullan%C4%B1c%C4%B1-aray%C3%BCz%C3%BC-olu%C5%9Fturmak-2b8a3c4c7b17?source=rss-d805a693a4ac------2)
-- [Tarihin Sıfır Noktasından Teknolojinin Sonsuzluğuna…](https://medium.com/@seniorturkmen/tarihin-s%C4%B1f%C4%B1r-noktas%C4%B1ndan-teknolojinin-sonsuzlu%C4%9Funa-4ab66ccdaae3?source=rss-d805a693a4ac------2)
-<!-- BLOG-POST-LIST:END -->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seniorturkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="seniorturkmen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seniorturkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="seniorturkmen" height="30" width="40" /></a>
-<a href="https://instagram.com/seniorturkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="seniorturkmen" height="30" width="40" /></a>
-<a href="https://medium.com/@seniorturkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@seniorturkmen" height="30" width="40" /></a>
+<a href="https://twitter.com/seniorturkmen" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="seniorturkmen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/seniorturkmen" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="seniorturkmen" height="30" width="40" /></a>
+<a href="https://instagram.com/seniorturkmen" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/i/4/instagram.svg" alt="seniorturkmen" height="30" width="40" /></a>
+<a href="https://medium.com/@seniorturkmen" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/medium_social_media_logo-128.png" alt="@seniorturkmen" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+    <br>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+    </p>
+</p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=seniorturkmen&theme=dark" alt="seniorturkmen" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seniorturkmen&show_icons=true&locale=en&layout=compact" alt="seniorturkmen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=seniorturkmen&theme=dark&layout=compact" alt="seniorturkmen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SeniorTurkmen&count_private=true&show_icons=true&theme=dark&locale=en" alt="seniorturkmen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seniorturkmen&show_icons=true&locale=en" alt="seniorturkmen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorturkmen&layout=compact&theme=dark&locale=en" alt="seniorturkmen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seniorturkmen&" alt="seniorturkmen" /></p>
-
-![GitHub metrics](https://metrics.lecoq.io/seniorturkmen)  
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seniorturkmen)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seniorturkmen)
