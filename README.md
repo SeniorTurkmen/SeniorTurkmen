@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A crazy Front End Dev.</h3>
+<h3 align="center">A crazy Flutter Dev.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/seniorturkmen)[![Github](https://img.shields.io/github/followers/seniorturkmen?label=Follow&style=flat)](https://github.com/seniorturkmen)![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/807?logoColor=white%26project=%26recentMS=0%26showProject=true)
 
@@ -10,9 +10,9 @@
 
 <p>I have been working on the Flutter Framework and Dart Language for over 1.5 years. I worked in web development stages. I am familiar with Linux and Windows architectures. I have remote working experience. I volunteered for local and national associations / charities. I have tutorials and articles on technology and software. Learning new technologies and  developing on them excites me</p>
 
-- 🔭 I’m currently working on [SambaPos](https://sambapos.com/)
+- 🔭 I’m currently working on [Guven Future](https://guvenfuture.com/)
 
-- 🌱 I’m currently learning **Flutter, Javascript**
+- 🌱 I’m currently learning **Flutter, Swift**
 
 - 👨‍💻 All of my projects are available at [www.mustafatrkmn.com](www.mustafatrkmn.com)
 
