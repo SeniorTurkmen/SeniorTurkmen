@@ -23,10 +23,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter ve Altogic ile uygulama geliştirme #backendinminute](https://medium.com/@seniorturkmen/flutter-ve-altogic-ile-uygulama-geli%C5%9Ftirme-backendinminute-2c61db9cc0f8?source=rss-d805a693a4ac------2)
 - [Dart Dilinde Bitsel İşlemler &lpar;Bitwise Operations in Dart&rpar;](https://medium.com/flutter-t%C3%BCrkiye/dart-dilinde-bitsel-islemler-bitwise-operations-in-dart-3b169d2dd86f?source=rss-d805a693a4ac------2)
 - [Multi-Platform Flutter Firestore &lpar;Türkçe/Turkish&rpar;](https://medium.com/flutter-t%C3%BCrkiye/multi-platform-flutter-firestore-t%C3%BCrk%C3%A7e-turkish-7dbf0443839?source=rss-d805a693a4ac------2)
 - [Flutter ile Güzel Kullanıcı Arayüzü Oluşturmak](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-g%C3%BCzel-kullan%C4%B1c%C4%B1-aray%C3%BCz%C3%BC-olu%C5%9Fturmak-2b8a3c4c7b17?source=rss-d805a693a4ac------2)
-- [Tarihin Sıfır Noktasından Teknolojinin Sonsuzluğuna…](https://medium.com/@seniorturkmen/tarihin-s%C4%B1f%C4%B1r-noktas%C4%B1ndan-teknolojinin-sonsuzlu%C4%9Funa-4ab66ccdaae3?source=rss-d805a693a4ac------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <h3 align="left">Connect with me:</h3>
