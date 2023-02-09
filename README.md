@@ -10,7 +10,7 @@
 
 <p>I have been working on the Flutter Framework and Dart Language for over 3 years. I regularly worked in web development stages. I am familiar with Linux and Windows architectures. I have remote working experience. I volunteered for local and national associations / charities. I have tutorials and articles on technology and software. Learning new technologies and  developing on them excites me</p>
 
-- 🔭 I’m currently working on [Dusyeri](https://www.dusyeri.com)
+- 🔭 I’m currently working on ---
 
 - 🌱 I’m currently learning **Flutter, Swift**
 
