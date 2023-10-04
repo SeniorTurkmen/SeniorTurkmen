@@ -8,7 +8,7 @@
 
 <p>I have been working on the Flutter Framework and Dart Language for over 3 years. I regularly worked in web development stages. I am familiar with Linux and Windows architectures. I have remote working experience. I volunteered for local and national associations / charities. I have tutorials and articles on technology and software. Learning new technologies and  developing on them excites me</p>
 
-- 🔭 I’m currently working on ---
+- 🔭 I’m currently working on **<a href="https://github.com/Algoritma-Donanim-ve-Yazilim">Algoritma</a>
 
 - 🌱 I’m currently learning **Flutter, Swift**
 
@@ -40,15 +40,16 @@
     <p>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></img>
     <br>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     </p>
 </p>
