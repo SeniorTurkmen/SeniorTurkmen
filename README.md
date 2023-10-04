@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A crazy Flutter Dev.</h3>
 
-![Profile views](https://gpvc.arturio.dev/seniorturkmen)[![Github](https://img.shields.io/github/followers/seniorturkmen?label=Follow&style=flat)](https://github.com/seniorturkmen)![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/807?logoColor=white%26project=%26recentMS=0%26showProject=true)
+![Profile views](![](https://komarev.com/ghpvc/?username=SeniorTurkmen&style=flat))[![Github](https://img.shields.io/github/followers/seniorturkmen?label=Follow&style=flat)](https://github.com/seniorturkmen)![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/807?logoColor=white%26project=%26recentMS=0%26showProject=true)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniorturkmen" alt="seniorturkmen" /></a> </p>
