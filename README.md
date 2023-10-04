@@ -55,7 +55,7 @@
     </p>
 </p>
 
-<p><img src="https://streak-stats.demolab.com?user=mustafa-turkmen-alg&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></p>
+<p><img src="https://streak-stats.demolab.com?user=seniorturkmen&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun%2CSat" alt="seniorturkmen" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorturkmen&layout=compact&theme=dark&locale=en&hide=c#" alt="seniorturkmen" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=seniorturkmen&layout=compact&theme=dark" alt="seniorturkmen" /></p>
 
