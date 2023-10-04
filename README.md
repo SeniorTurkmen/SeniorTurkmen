@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A crazy Flutter Dev.</h3>
+<h3 align="center">Mobile Developer</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SeniorTurkmen&style=flat)[![Github](https://img.shields.io/github/followers/seniorturkmen?label=Follow&style=flat)](https://github.com/seniorturkmen)[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D807%26project%3D%26in%3D0)](https://codetime.dev)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniorturkmen" alt="seniorturkmen" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/seniorturkmen" target="blank"><img src="https://img.shields.io/twitter/follow/seniorturkmen?logo=twitter&style=for-the-badge" alt="seniorturkmen" /></a> </p>
 
@@ -55,7 +53,7 @@
     </p>
 </p>
 
-<p><img src="https://streak-stats.demolab.com?user=SeniorTurkmen&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun%2CSat" alt="seniorturkmen" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SeniorTurkmen&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorturkmen&layout=compact&theme=dark&locale=en&hide=c#" alt="seniorturkmen" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=seniorturkmen&layout=compact&theme=dark" alt="seniorturkmen" /></p>
 
