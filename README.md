@@ -54,8 +54,8 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     </p>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustafa-turkmen-alg&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=seniorturkmen&theme=dark" alt="seniorturkmen" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SeniorTurkmen&count_private=true&show_icons=true&theme=dark&locale=en" alt="seniorturkmen" /></p>
+
+<p><img align="left" src="https://streak-stats.demolab.com?user=seniorturkmen&theme=dark&hide_border=true&mode=weekly&exclude_days=Sun%2CSat" alt="seniorturkmen" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SeniorTurkmen&count_private=true&show_icons=true&theme=dark&locale=en" alt="seniorturkmen" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorturkmen&layout=compact&theme=dark&locale=en&hide=c#" alt="seniorturkmen" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=seniorturkmen&layout=compact&theme=dark" alt="seniorturkmen" /></p>
