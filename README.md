@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/seniorturkmen" target="blank"><img src="https://img.shields.io/twitter/follow/seniorturkmen?logo=twitter&style=for-the-badge" alt="seniorturkmen" /></a> </p>
 
-<p>I have been working on the Flutter Framework and Dart Language for over 3 years. I regularly worked in web development stages. I am familiar with Linux and Windows architectures. I have remote working experience. I volunteered for local and national associations / charities. I have tutorials and articles on technology and software. Learning new technologies and  developing on them excites me</p>
+<p>I have been working on the Flutter Framework and Dart Language for over 4 years. I regularly worked in web development stages. I am familiar with Linux and Windows architectures and also experience with mobile architectures. I have remote working experience. I volunteered for local and national associations / charities. I have tutorials and articles on technology and software. Learning new technologies and  developing on them excites me</p>
 
 - 🔭 I’m currently working at **<a href="https://github.com/Algoritma-Donanim-ve-Yazilim">Algoritma</a>**
 
