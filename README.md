@@ -19,10 +19,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Flutter Development with FVM: A Comprehensive Guide](https://seniorturkmen.medium.com/optimizing-flutter-development-with-fvm-a-comprehensive-guide-fb7e11b9c712?source=rss-d805a693a4ac------2)
 - [Managing Multi-Package Flutter Projects with Melos — A Leap Towards Efficient Development](https://seniorturkmen.medium.com/managing-multi-package-flutter-projects-with-melos-a-leap-towards-efficient-development-a305e696fe73?source=rss-d805a693a4ac------2)
 - [Flutter ve Altogic ile uygulama geliştirme #backendinminute](https://seniorturkmen.medium.com/flutter-ve-altogic-ile-uygulama-geli%C5%9Ftirme-backendinminute-2c61db9cc0f8?source=rss-d805a693a4ac------2)
 - [Dart Dilinde Bitsel İşlemler &lpar;Bitwise Operations in Dart&rpar;](https://medium.com/flutter-t%C3%BCrkiye/dart-dilinde-bitsel-islemler-bitwise-operations-in-dart-3b169d2dd86f?source=rss-d805a693a4ac------2)
-- [Multi-Platform Flutter Firestore &lpar;Türkçe/Turkish&rpar;](https://medium.com/flutter-t%C3%BCrkiye/multi-platform-flutter-firestore-t%C3%BCrk%C3%A7e-turkish-7dbf0443839?source=rss-d805a693a4ac------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <h3 align="left">Connect with me:</h3>
