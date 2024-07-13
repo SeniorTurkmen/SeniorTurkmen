@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **iletisim@mustafatrkmn.com**
 
+- 📝 Check out my **<a href="https://github.com/SeniorTurkmen/CV">CV</a>**
+
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
