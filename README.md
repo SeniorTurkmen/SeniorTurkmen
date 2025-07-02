@@ -6,7 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/seniorturkmen" target="blank"><img src="https://img.shields.io/twitter/follow/seniorturkmen?logo=twitter&style=for-the-badge" alt="seniorturkmen" /></a> </p>
 
-<p>I have been working on the Flutter Framework and Dart Language for over 4 years. I regularly worked in web development stages. I am familiar with Linux and Windows architectures and also experience with mobile architectures. I have remote working experience. I volunteered for local and national associations / charities. I have tutorials and articles on technology and software. Learning new technologies and  developing on them excites me</p>
+<p>I have over six years of professional experience specializing in the Flutter framework and the Dart programming language. Alongside mobile development, I’ve contributed to numerous web projects, delivering robust and scalable solutions—sometimes even before my third cup of coffee ☕.</p>
+
+<p>My technical expertise spans both Linux 🐧 and Windows 🪟 environments, and I have a solid understanding of modern mobile architectures 📱. I am comfortable working remotely and collaborating with distributed teams across time zones (and occasionally across snack breaks 🍪).</p>
+
+<p>In addition to my professional work, I have volunteered with various local and national organizations and charities ❤️, because giving back feels even better than shipping clean code. I am committed to sharing knowledge and have authored tutorials and articles to help others navigate the world of technology—hopefully with fewer headaches 🤓.</p>
+
+<p>I’m driven by a passion for continuous learning and innovation 🌟, and I take great satisfaction in exploring new technologies to create impactful solutions. After all, nothing beats the thrill of solving a challenging problem—except maybe solving it with a good playlist in the background 🎵.</p>
+
 
 - 🔭 I’m currently working at **<a href="https://www.onedose.io">Onedose Health</a>**
 
