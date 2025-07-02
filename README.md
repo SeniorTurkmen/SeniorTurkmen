@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Sr. Mobile Developer</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SeniorTurkmen&style=flat)[![Github](https://img.shields.io/github/followers/seniorturkmen?label=Follow&style=flat)](https://github.com/seniorturkmen)[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D807%26project%3D%26in%3D0)](https://codetime.dev)
 
@@ -8,7 +8,7 @@
 
 <p>I have been working on the Flutter Framework and Dart Language for over 4 years. I regularly worked in web development stages. I am familiar with Linux and Windows architectures and also experience with mobile architectures. I have remote working experience. I volunteered for local and national associations / charities. I have tutorials and articles on technology and software. Learning new technologies and  developing on them excites me</p>
 
-<!-- - 🔭 I’m currently working at **<a href="https://github.com/Algoritma-Donanim-ve-Yazilim">Algoritma</a>** -->
+- 🔭 I’m currently working at **<a href="https://www.onedose.io">Onedose Health</a>**
 
 - 👨‍💻 All of my projects are available at [www.mustafatrkmn.com](www.mustafatrkmn.com)
 
